@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/note-generator/static/css/main.f1fde63d.css",
+    "main.js": "/note-generator/static/js/main.097ee05a.js",
+    "static/js/787.7d29de91.chunk.js": "/note-generator/static/js/787.7d29de91.chunk.js",
+    "static/media/EduTASBeginner-VariableFont_wght.ttf": "/note-generator/static/media/EduTASBeginner-VariableFont_wght.a3ac0123eb1663aa3494.ttf",
+    "index.html": "/note-generator/index.html",
+    "main.f1fde63d.css.map": "/note-generator/static/css/main.f1fde63d.css.map",
+    "main.097ee05a.js.map": "/note-generator/static/js/main.097ee05a.js.map",
+    "787.7d29de91.chunk.js.map": "/note-generator/static/js/787.7d29de91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1fde63d.css",
+    "static/js/main.097ee05a.js"
+  ]
+}
